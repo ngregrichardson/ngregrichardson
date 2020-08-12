@@ -1,4 +1,4 @@
-[![](https://badgen.net/twitter/follow/ngregrichardson)](https://twitter.com/ngregrichardson)
+[![](https://badgen.net/twitter/follow/ngregrichardson?icon=twitter)](https://twitter.com/ngregrichardson)
 [![](https://badgen.net/badge/Support%20Me%20On/Ko%2Dfi/blue?icon=kofi)](https://ko-fi.com/ngregrichardson)
 [![](https://badgen.net/badge/Support%20Me%20On/Liberapay/yellow)](https://liberapay.com/ngregrichardson)
 
