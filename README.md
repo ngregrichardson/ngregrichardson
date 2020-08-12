@@ -7,3 +7,7 @@
 - :mailbox_with_mail: How to reach me: Reach out on my [website](https://ngregrichardson.dev/contact)
 - :smiley: Pronouns: He/Him
 - :zap: Fun fact: I have a :dog: named Drake, a :cat: named Moosh, and a :turtle: named Mrs. Turtle!
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ngregrichardson&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngregrichardson)](https://github.com/anuraghazra/github-readme-stats)
