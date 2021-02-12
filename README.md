@@ -9,4 +9,7 @@
 - :zap: Fun fact: I really like doing one day app builds!
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
